@@ -1,6 +1,6 @@
-# atg-data-scripts
+# Data Manipulation Scripts
 
-This repo contains Python scripts used to web scrape and process data into JSON format for the Azeroth Tour Guide project. These scripts were developed iteratively to build and refine the `regions.json` dataset.
+This directory contains Python scripts used to web scrape and process data into JSON format for the Azeroth Tour Guide project. These scripts were developed iteratively to build and refine the `regions.json` dataset.
 
 ## Scripts Overview
 

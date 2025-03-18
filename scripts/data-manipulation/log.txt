@@ -1,0 +1,347 @@
+
+Testing Ahn'Qiraj with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Ahn%27Qiraj_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Ahn'Qiraj without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Ahn%27Qiraj - Status: 200
+
+Testing Alterac Mountains with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Alterac%20Mountains_(Classic) - Status: 200
+
+Testing Alterac Valley with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Alterac%20Valley_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Alterac Valley without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Alterac%20Valley - Status: 200
+
+Testing Arathi Basin with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Arathi%20Basin_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Arathi Basin without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Arathi%20Basin - Status: 200
+
+Testing Arathi Highlands with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Arathi%20Highlands_(Classic) - Status: 200
+
+Testing Ashenvale with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Ashenvale_(Classic) - Status: 200
+
+Testing Azshara with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Azshara_(Classic) - Status: 200
+
+Testing Badlands with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Badlands_(Classic) - Status: 200
+
+Testing Blackfathom Deeps with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackfathom%20Deeps_(Classic) - Status: 200
+
+Testing Blackrock Depths with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackrock%20Depths_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Blackrock Depths without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackrock%20Depths - Status: 200
+
+Testing Blackrock Mountain with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackrock%20Mountain_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Blackrock Mountain without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackrock%20Mountain - Status: 200
+
+Testing Blackrock Spire with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackrock%20Spire_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Blackrock Spire without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackrock%20Spire - Status: 200
+
+Testing Blackwing Lair with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackwing%20Lair_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Blackwing Lair without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blackwing%20Lair - Status: 200
+
+Testing Blasted Lands with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Blasted%20Lands_(Classic) - Status: 200
+
+Testing Burning Steppes with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Burning%20Steppes_(Classic) - Status: 200
+
+Testing Caverns of Time with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Caverns%20of%20Time_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Caverns of Time without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Caverns%20of%20Time - Status: 200
+
+Testing Darkshore with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Darkshore_(Classic) - Status: 200
+
+Testing Darnassus with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Darnassus_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Darnassus without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Darnassus - Status: 200
+
+Testing Deadwind Pass with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Deadwind%20Pass_(Classic) - Status: 200
+
+Testing Deeprun Tram with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Deeprun%20Tram_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Deeprun Tram without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Deeprun%20Tram - Status: 200
+
+Testing Desolace with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Desolace_(Classic) - Status: 200
+
+Testing Dire Maul with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Dire%20Maul_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Dire Maul without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Dire%20Maul - Status: 200
+
+Testing Dun Morogh with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Dun%20Morogh_(Classic) - Status: 200
+
+Testing Durotar with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Durotar_(Classic) - Status: 200
+
+Testing Duskwood with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Duskwood_(Classic) - Status: 200
+
+Testing Dustwallow Marsh with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Dustwallow%20Marsh_(Classic) - Status: 200
+
+Testing Eastern Plaguelands with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Eastern%20Plaguelands_(Classic) - Status: 200
+
+Testing Elwynn Forest with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Elwynn%20Forest_(Classic) - Status: 200
+
+Testing Emerald Forest with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Emerald%20Forest_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Emerald Forest without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Emerald%20Forest - Status: 200
+
+Testing Felwood with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Felwood_(Classic) - Status: 200
+
+Testing Feralas with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Feralas_(Classic) - Status: 200
+
+Testing Gnomeregan with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Gnomeregan_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Gnomeregan without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Gnomeregan - Status: 200
+
+Testing Hillsbrad Foothills with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Hillsbrad%20Foothills_(Classic) - Status: 200
+
+Testing Ironforge with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Ironforge_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Ironforge without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Ironforge - Status: 200
+
+Testing Loch Modan with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Loch%20Modan_(Classic) - Status: 200
+
+Testing Maraudon with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Maraudon_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Maraudon without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Maraudon - Status: 200
+
+Testing Molten Core with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Molten%20Core_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Molten Core without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Molten%20Core - Status: 200
+
+Testing Moonglade with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Moonglade_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Moonglade without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Moonglade - Status: 200
+
+Testing Mulgore with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Mulgore_(Classic) - Status: 200
+
+Testing Naxxramas with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Naxxramas_(Classic) - Status: 200
+
+Testing Onyxia's Lair with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Onyxia%27s%20Lair_(Classic) - Status: 200
+
+Testing Orgrimmar with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Orgrimmar_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Orgrimmar without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Orgrimmar - Status: 200
+
+Testing Ragefire Chasm with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Ragefire%20Chasm_(Classic) - Status: 200
+
+Testing Razorfen Downs with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Razorfen%20Downs_(Classic) - Status: 200
+
+Testing Razorfen Kraul with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Razorfen%20Kraul_(Classic) - Status: 200
+
+Testing Redridge Mountains with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Redridge%20Mountains_(Classic) - Status: 200
+
+Testing Ruins of Ahn'Qiraj with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Ruins%20of%20Ahn%27Qiraj_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Ruins of Ahn'Qiraj without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Ruins%20of%20Ahn%27Qiraj - Status: 200
+
+Testing Scarlet Monastery with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Scarlet%20Monastery_(Classic) - Status: 200
+
+Testing Scholomance with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Scholomance_(Classic) - Status: 200
+
+Testing Searing Gorge with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Searing%20Gorge_(Classic) - Status: 200
+
+Testing Shadowfang Keep with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Shadowfang%20Keep_(Classic) - Status: 200
+
+Testing Silithus with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Silithus_(Classic) - Status: 200
+
+Testing Silverpine Forest with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Silverpine%20Forest_(Classic) - Status: 200
+
+Testing Stonetalon Mountains with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Stonetalon%20Mountains_(Classic) - Status: 200
+
+Testing Stormwind City with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Stormwind%20City_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Stormwind City without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Stormwind%20City - Status: 200
+
+Testing Stranglethorn Vale with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Stranglethorn%20Vale_(Classic) - Status: 200
+
+Testing Stratholme with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Stratholme_(Classic) - Status: 200
+
+Testing Sunken Temple with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Sunken%20Temple_(Classic) - Status: 200
+
+Testing Swamp of Sorrows with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Swamp%20of%20Sorrows_(Classic) - Status: 200
+
+Testing Tanaris with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Tanaris_(Classic) - Status: 200
+
+Testing Teldrassil with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Teldrassil_(Classic) - Status: 200
+
+Testing The Barrens with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Barrens_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing The Barrens without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Barrens - Status: 200
+
+Testing The Deadmines with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Deadmines_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing The Deadmines without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Deadmines - Status: 200
+
+Testing The Great Sea with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Great%20Sea_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing The Great Sea without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Great%20Sea - Status: 200
+
+Testing The Hinterlands with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Hinterlands_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing The Hinterlands without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Hinterlands - Status: 200
+
+Testing The Stockade with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Stockade_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing The Stockade without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Stockade - Status: 200
+
+Testing The Temple of Atal'Hakkar with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Temple%20of%20Atal%27Hakkar_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing The Temple of Atal'Hakkar without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Temple%20of%20Atal%27Hakkar - Status: 200
+
+Testing The Veiled Sea with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Veiled%20Sea_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing The Veiled Sea without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/The%20Veiled%20Sea - Status: 200
+
+Testing Thousand Needles with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Thousand%20Needles_(Classic) - Status: 200
+
+Testing Thunder Bluff with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Thunder%20Bluff_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Thunder Bluff without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Thunder%20Bluff - Status: 200
+
+Testing Tirisfal Glades with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Tirisfal%20Glades_(Classic) - Status: 200
+
+Testing Uldaman with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Uldaman_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Uldaman without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Uldaman - Status: 200
+
+Testing Un'Goro Crater with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Un%27Goro%20Crater_(Classic) - Status: 200
+
+Testing Undercity with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Undercity_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Undercity without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Undercity - Status: 200
+
+Testing Wailing Caverns with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Wailing%20Caverns_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Wailing Caverns without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Wailing%20Caverns - Status: 200
+
+Testing Warsong Gulch with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Warsong%20Gulch_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Warsong Gulch without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Warsong%20Gulch - Status: 200
+
+Testing Western Plaguelands with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Western%20Plaguelands_(Classic) - Status: 200
+
+Testing Westfall with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Westfall_(Classic) - Status: 200
+
+Testing Wetlands with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Wetlands_(Classic) - Status: 200
+
+Testing Winterspring with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Winterspring_(Classic) - Status: 200
+
+Testing Zul'Farrak with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Zul%27Farrak_(Classic) - Status: 404
+  -> Non-200 status code: 404
+Testing Zul'Farrak without _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Zul%27Farrak - Status: 200
+
+Testing Zul'Gurub with _(Classic):
+Checking https://warcraft.wiki.gg/wiki/Zul%27Gurub_(Classic) - Status: 200
+
+JSON file has been updated with new links!
