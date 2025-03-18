@@ -28,9 +28,9 @@ The scripts were executed in the following order to transform and enhance the da
 - Poetry (version 2.1.1 or later) for dependency management.
 
 ### Setup
-1. Navigate to the `scripts/` directory (one level up):
+1. Navigate to the `scripts/` directory:
    ```bash
-   cd ../scripts
+   cd scripts
    ```
 2. Install dependencies using Poetry:
    ```bash
